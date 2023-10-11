@@ -5,6 +5,8 @@ https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html
 https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html
 https://code.likeagirl.io/finding-dominant-colour-on-an-image-b4e075f98097
 
+IMPROVEMENTS:
+All code inside the for loop to print out all contours, along with dominant colors inside a center square
 '''
 
 
